@@ -59,9 +59,7 @@ This is intentional. Passive learning is useless.
 
 ---
 
-## Weekly focus breakdown
-
-### Week 1: Python Basics
+### 1: Python Basics
 
 * Variables and data types
 * Conditions and loops
@@ -72,7 +70,7 @@ Goal: Think in steps, not syntax.
 
 ---
 
-### Week 2: Functions & Collections
+### 2: Functions & Collections
 
 * Functions and return values
 * Lists, tuples, dictionaries, sets
@@ -82,7 +80,7 @@ Goal: Break logic into reusable blocks.
 
 ---
 
-### Week 3: Files, Errors & Comprehensions
+### 3: Files, Errors & Comprehensions
 
 * File handling
 * Exception handling
@@ -92,7 +90,7 @@ Goal: Write safer, cleaner Python code.
 
 ---
 
-### Week 4: Logic Building & Strings
+### 4: Logic Building & Strings
 
 * String manipulation
 * Pattern and text-based logic
