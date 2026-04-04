@@ -28,10 +28,10 @@ Each week has its **own Jupyter Notebook**.
 ```
 logic-building-with-python/
 │
-├── Week_01_Python_Basics.ipynb
-├── Week_02_Functions_Collections.ipynb
-├── Week_03_File_Error_Modules.ipynb
-├── Week_04_Logic_Strings.ipynb
+├── 01_Python_Basics.ipynb
+├── 02_Functions_Collections.ipynb
+├── 03_File_Error_Modules.ipynb
+├── 04_Logic_Strings.ipynb
 ```
 
 ---
